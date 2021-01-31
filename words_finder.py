@@ -194,5 +194,3 @@ start = time.time()
 word_finder()
 end = time.time()
 print_results()
-
-print(end - start)
